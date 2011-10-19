@@ -5,7 +5,9 @@ document.writeln("<h1>START Functions</h1><br>");
 	// Create a variable called add and store a function
 	// in it that adds two numbers.
 
-	var add = function (a, b) {
+	var add = function (a, b) { 
+		
+		
 	    return a + b;
 	};
 	    
