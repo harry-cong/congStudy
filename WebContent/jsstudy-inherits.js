@@ -1,8 +1,3 @@
 /**
  * 
  */
-
-function mytest(){
-	/****/
-	document.body;
-};

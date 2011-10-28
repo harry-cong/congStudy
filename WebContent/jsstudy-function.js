@@ -6,10 +6,7 @@ document.writeln("<h1>START Functions</h1><br>");
 	// in it that adds two numbers.
 
 	var add = function (a, b) { 
-
-		// test
-		/* this is add function */
-
+		
 		
 	    return a + b;
 	};
